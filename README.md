@@ -12,7 +12,7 @@ The dataset contains large image and annotation files that exceed GitHub's pract
 
 **Please visit the Google Drive link below to download the complete dataset.**
 
-### 📂 [👉 CLICK HERE TO DOWNLOAD THE DATASET FROM GOOGLE DRIVE]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1YJJGg2CEcK-mXt8Yo9a9cPLnLEaKDaFW/view?usp=sharing))
+### 📂 [👉 CLICK HERE TO DOWNLOAD THE DATASET FROM GOOGLE DRIVE](https://drive.google.com/file/d/1YJJGg2CEcK-mXt8Yo9a9cPLnLEaKDaFW/view?usp=sharing)
 
 **After downloading, extract the dataset into the project root directory.**
 
